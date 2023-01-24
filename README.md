@@ -39,6 +39,7 @@ python manage.py runserver
 ### Starting the Node Server ### 
 
 ```
+cd BioRad_React_Recipe_App/recipes/src/
 npm start
 ```
 
