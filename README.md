@@ -26,6 +26,7 @@ Depending on if you have Python3 or Python 2 and lower, the following command wi
 
 ### Python 3 ###
 ```
+cd BioRad_React_Recipe_App/recipes/src/Server/DjangoAPI/
 python3 manage.py runserver
 ```
 
