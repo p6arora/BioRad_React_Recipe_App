@@ -31,6 +31,7 @@ python3 manage.py runserver
 
 ### Python 2 and lower ###
 ```
+cd BioRad_React_Recipe_App/recipes/src/Server/DjangoAPI/
 python manage.py runserver
 ```
 
