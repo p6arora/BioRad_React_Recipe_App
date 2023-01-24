@@ -2,7 +2,9 @@
  
 ## Introduction ##
 
-The purpose of this project was to create a sample recipes page to Add, Update, and Delete recipes
+The purpose of this project was to create a sample recipes page to Add, Update, and Delete recipes.
+
+It utlizes the React Framework for front-end visualizations and Django and a SQL Database for storing the added recipes
 
 ## Screenshots ## 
 
